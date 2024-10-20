@@ -1,0 +1,1 @@
+clang dclock.c -o dclock.exe -mwindows -s
